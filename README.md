@@ -44,6 +44,8 @@ orientada a objetos que es uno de los paradigmas m ́as importantes en la
 actualidad; y en la ejecuci ́on de este proyecto logramos obtener conoci-
 miento tanto conceptual como pr ́actico de dichos conceptos
 
+## Link Informe
+[Informe_programacion.pdf](https://github.com/jorgeroi/Buscaminas/files/11593966/Informe_programacion.pdf)
 
 ## Integrantes
 Juana Romero--David Bohorquez--Jorge Rojas
