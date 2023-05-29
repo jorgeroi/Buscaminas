@@ -1,3 +1,6 @@
+
+<script src="https://cdn.jsdelivr.net/gh/objetos/p5.quadrille.js/p5.quadrille.min.js"></script>
+
 const COLS = 10, ROWS = 10;
 Quadrille.CELL_LENGTH = 60;
 let bombas;
